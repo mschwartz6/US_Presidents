@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>yeardied</key>
+	<array>
+		<string>December 14, 1799; 10:00pm</string>
+		<string>July 4, 1826; 6:20pm</string>
+		<string>July 4, 1826; 12:30pm</string>
+		<string>June 28, 1836; 6:00am</string>
+		<string>July 4, 1831; 3:15pm</string>
+		<string>February 23, 1848; 7:20pm</string>
+		<string>June 8, 1845; 6:00pm</string>
+		<string>July 24, 1862; 2:00am</string>
+		<string>April 4, 1841; 12:30am</string>
+		<string>January 18, 1862; 12:15am</string>
+		<string>June 15, 1849; 3:15pm</string>
+		<string>July 9, 1850; 10:35pm</string>
+		<string>March 8, 1874; 11:10pm</string>
+		<string>October 8, 1869; 4:49am</string>
+		<string>June 1, 1868; 8:30am</string>
+		<string>April 15, 1865; 7:22am</string>
+		<string>July 31, 1875; 2:00am</string>
+		<string>July 23, 1885; 8:06am</string>
+		<string>January 17, 1893; 11:00pm</string>
+		<string>September 19, 1881; 10:35pm</string>
+		<string>November 18, 1886; 5:00am</string>
+		<string>June 24, 1908; 8:40pm</string>
+		<string>March 13, 1901; 4:45pm</string>
+		<string>September 14, 1901; 2:15am</string>
+		<string>January 6, 1919; 4:00am</string>
+		<string>March 8, 1930; 5:15pm</string>
+		<string>February 3, 1924; 11:15am</string>
+		<string>August 2, 1923; 7:30pm</string>
+		<string>January 5, 1933; 12:45pm</string>
+		<string>October 20, 1964; 11:35am</string>
+		<string>April 12, 1945; 3:35pm</string>
+		<string>December 26, 1972; 7:47am</string>
+		<string>March 28, 1969; 12:25pm</string>
+		<string>November 22, 1963; 1:00pm</string>
+		<string>January 22, 1973; 4:33pm</string>
+		<string>April 22, 1994; 9:08pm</string>
+		<string>December 26, 2006; 6:45pm</string>
+		<string>June 5, 2004; 1:09pm</string>
+		<string>N-A</string>
+		<string>N-A</string>
+		<string>N-A</string>
+		<string>N-A</string>
+		<string>N-A</string>
+		<string>N-A</string>
+	</array>
+	<key>amountofterms</key>
+	<array>
+		<string>Served two full terms.</string>
+		<string>Served one full term. Lost reelection.</string>
+		<string>Served two full terms.</string>
+		<string>Served two full terms.</string>
+		<string>Served two full terms.</string>
+		<string>Served one full term. Lost reelection.</string>
+		<string>Served two full terms.</string>
+		<string>Served one full term.</string>
+		<string>Died of pneumonia 31 days into his term.</string>
+		<string>Served the remaining 3 years and 11 months of William H. Harrisons term.</string>
+		<string>Served one full term. </string>
+		<string>Died 1 year, 4 months, and 5 days into his term.</string>
+		<string>Served the remaining 2 years, 7 months, and 23 days of Taylors term. </string>
+		<string>Served one full term. Lost renomination.</string>
+		<string>Served one full term. Did not seek a second term.</string>
+		<string>Served one full term.</string>
+		<string>Served the remaining 3 years, 10 months, and 17 days of Lincolns second term. </string>
+		<string>Served two full terms. In 1880, he sought but did not win renomination.</string>
+		<string>Served one full term. Did not seek a second term.</string>
+		<string>Assassinated 3 months and 28 days after taking office, </string>
+		<string>Served the remaining 3 years, 5 months, and 13 days of Garfields term.</string>
+		<string>Served two full terms; non-consecutively.</string>
+		<string>Served one full term. Lost reelection.</string>
+		<string>Served one full term. Assassinated 6 months and 2 days into his second term, </string>
+		<string>Served the remaining 3 years, 5 months, and 18 days of McKinleys second term. </string>
+		<string>Served one full term. Lost reelection.</string>
+		<string>Served two full terms.</string>
+		<string>Died 2 years, 4 months, and 29 days into his term.</string>
+		<string>Served the remaining 1 year, 7 months, and 2 days of Hardings term. </string>
+		<string>Served one full term. Lost reelection.</string>
+		<string>Served three full terms. Died 2 months and 23 days into his fourth term.</string>
+		<string>Served the remaining 3 years, 9 months, and 8 days of Franklin D. Roosevelts fourth term. Served a full term. Withdrew from the race for renomination.[d]</string>
+		<string>Served two full terms.</string>
+		<string>Assassinated 2 years, 10 months, and 2 days into his term.</string>
+		<string>Served the remaining 1 year, 1 month, and 29 days of Kennedys term. Served a full term. </string>
+		<string>Served one full term. Resigned 1 year, 6 months, and 20 days into his second term.</string>
+		<string>Served the remaining 2 years, 5 months, and 11 days of Nixons second term. </string>
+		<string>Served one full term. Lost reelection.</string>
+		<string>Served two full terms.</string>
+		<string>Served one full term. Lost reelection.</string>
+		<string>Served two full terms.</string>
+		<string>Served two full terms.</string>
+		<string>Served two full terms.</string>
+		<string>Incumbent, serving his first term of office.</string>
+	</array>
+	<key>birthdays</key>
+	<array>
+		<string>February 22, 1732</string>
+		<string>October 30 1735</string>
+		<string>April 13, 1743</string>
+		<string>March 16, 1751</string>
+		<string>April 28th, 1758</string>
+		<string>July 11, 1767</string>
+		<string>March 15, 1767</string>
+		<string>December 5, 1782</string>
+		<string>February 9, 1773</string>
+		<string>March 29, 1790</string>
+		<string>November 2, 1795</string>
+		<string>November 24, 1784</string>
+		<string>January 7, 1800</string>
+		<string>November 23, 1804</string>
+		<string>April 23, 1791</string>
+		<string>February 12, 1809</string>
+		<string>December 29, 1808</string>
+		<string>April 27, 1822</string>
+		<string>October 4, 1822</string>
+		<string>November 19, 1831</string>
+		<string>October 5, 1829</string>
+		<string>March 18, 1837</string>
+		<string>August 20, 1833</string>
+		<string>January 29, 1843</string>
+		<string>October 27, 1858</string>
+		<string>September 15, 1857</string>
+		<string>December 28, 1856</string>
+		<string>November 2, 1865</string>
+		<string>July 4, 1872</string>
+		<string>August 10, 1874</string>
+		<string>January 30, 1882</string>
+		<string>May 8, 1884</string>
+		<string>October 14, 1890</string>
+		<string>May 29, 1917</string>
+		<string>August 27, 1908</string>
+		<string>January 9, 1913</string>
+		<string>July 14, 1913</string>
+		<string>October 1, 1924</string>
+		<string>February 6, 1911</string>
+		<string>June 12, 1924</string>
+		<string>August 19, 1946</string>
+		<string>July 6, 1946</string>
+		<string>August 4, 1961 </string>
+		<string>June 14, 1946</string>
+	</array>
+	<key>placedied</key>
+	<array>
+		<string>Mount Vernon, Virginia</string>
+		<string>Quincy, Massachusetts</string>
+		<string>Charlottesville, Virginia</string>
+		<string>Orange, Virginia</string>
+		<string>New York City</string>
+		<string>Washington, D.C.</string>
+		<string>Nashville, Tennessee</string>
+		<string>Kinderhook, New York</string>
+		<string>Washington, D.C.</string>
+		<string>Richmond, Virginia</string>
+		<string>Nashville, Tennessee</string>
+		<string>Washington, D.C.</string>
+		<string>Buffalo, New York</string>
+		<string>Concord, New Hampshire</string>
+		<string>Lancaster, Pennsylvania</string>
+		<string>Washington, D.C.</string>
+		<string>Carters Station, Tennessee</string>
+		<string>Wilton, New York</string>
+		<string>Fremont, Ohio</string>
+		<string>Elberon, New Jersey</string>
+		<string>New York City</string>
+		<string>Princeton, New Jersey</string>
+		<string>Indianapolis, Indiana</string>
+		<string>Buffalo, New York</string>
+		<string>Oyster Bay, New York</string>
+		<string>Washington, D.C.</string>
+		<string>Washington, D.C.</string>
+		<string>San Francisco, California</string>
+		<string>Northampton, Massachusetts</string>
+		<string>New York City</string>
+		<string>Warm Springs, Georgia</string>
+		<string>Kansas City, Missouri</string>
+		<string>Washington, D.C.</string>
+		<string>Dallas, Texas</string>
+		<string>Johnson City, Texas</string>
+		<string>New York City</string>
+		<string>Rancho Mirage, California</string>
+		<string>Los Angeles, California</string>
+		<string>N-A</string>
+		<string>N-A</string>
+		<string>N-A</string>
+		<string>N-A</string>
+		<string>N-A</string>
+		<string>N-A</string>
+	</array>
+	<key>yeartookoffice</key>
+	<array>
+		<string>April 30, 1789</string>
+		<string>March 4, 1797</string>
+		<string>March 4, 1801</string>
+		<string>March 4, 1809</string>
+		<string>March 4, 1817</string>
+		<string>March 4, 1825</string>
+		<string>March 4, 1829</string>
+		<string>March 4, 1837</string>
+		<string>Mar. 4, 1841</string>
+		<string>April 4, 1841</string>
+		<string>March 4, 1845</string>
+		<string>March 4, 1849</string>
+		<string>July 9, 1850</string>
+		<string>Mar. 4, 1853</string>
+		<string>Mar. 4, 1857</string>
+		<string>Mar. 4, 1861</string>
+		<string>April 15, 1865 </string>
+		<string>Mar. 4, 1869</string>
+		<string>Mar. 4, 1877</string>
+		<string>Mar. 4, 1881</string>
+		<string>Sept. 19, 1881</string>
+		<string>Mar. 4, 1885 and Mar. 4, 1893</string>
+		<string>Mar. 4, 1889</string>
+		<string>March 4, 1897</string>
+		<string>Sept. 14, 1901</string>
+		<string>Mar. 4, 1909</string>
+		<string>Mar. 4, 1913</string>
+		<string>Mar. 4, 1921</string>
+		<string>August 2, 1923</string>
+		<string>Mar. 4, 1929</string>
+		<string>Mar. 4, 1933</string>
+		<string>April 12, 1945</string>
+		<string>Jan. 20, 1953</string>
+		<string>Jan. 20, 1961</string>
+		<string>Nov. 22, 1963</string>
+		<string>Jan. 20, 1969</string>
+		<string>August 9, 1974</string>
+		<string>Jan. 20, 1977</string>
+		<string>Jan. 20, 1981</string>
+		<string>Jan. 20, 1989</string>
+		<string>Jan. 20, 1993</string>
+		<string>Jan. 20, 2001</string>
+		<string>Jan. 20, 2009</string>
+		<string>Jan. 20, 2017</string>
+	</array>
+	<key>presnames</key>
+	<array>
+		<string>George Washington</string>
+		<string>John Adams</string>
+		<string>Thomas Jefferson</string>
+		<string>James Madison</string>
+		<string>James Monroe</string>
+		<string>John Quincy Adams</string>
+		<string>Andrew Jackson</string>
+		<string>Martin Van Buren</string>
+		<string>William H. Harrison</string>
+		<string>John Tyler</string>
+		<string>James K. Polk</string>
+		<string>Zachary Taylor</string>
+		<string>Millard Fillmore</string>
+		<string>Franklin Pierce</string>
+		<string>James Buchanan</string>
+		<string>Abraham Lincoln</string>
+		<string>Andrew Johnson</string>
+		<string>Ulysses S. Grant</string>
+		<string>Rutherford B. Hayes</string>
+		<string>James A. Garfield</string>
+		<string>Chester A. Arthur</string>
+		<string>Grover Cleveland</string>
+		<string>Benjamin Harrison</string>
+		<string>William McKinley</string>
+		<string>Theodore Roosevelt</string>
+		<string>William H. Taft</string>
+		<string>Woodrow Wilson</string>
+		<string>Warren G. Harding</string>
+		<string>Calvin Coolidge</string>
+		<string>Herbert Hoover</string>
+		<string>Franklin D. Roosevelt</string>
+		<string>Harry S. Truman</string>
+		<string>Dwight D. Eisenhower</string>
+		<string>John F. Kennedy</string>
+		<string>Lyndon B. Johnson</string>
+		<string>Richard M. Nixon</string>
+		<string>Gerald R. Ford</string>
+		<string>Jimmy Carter</string>
+		<string>Ronald Reagan</string>
+		<string>George H. W. Bush</string>
+		<string>Bill Clinton</string>
+		<string>George W. Bush</string>
+		<string>Barack Hussein Obama</string>
+		<string>Donald J. Trump</string>
+	</array>
+	<key>imgpath</key>
+	<array>
+		<string>1.jpg</string>
+		<string>2.jpg</string>
+		<string>3.jpg</string>
+		<string>4.jpg</string>
+		<string>5.jpg</string>
+		<string>6.jpg</string>
+		<string>7.jpg</string>
+		<string>8.jpg</string>
+		<string>9.jpg</string>
+		<string>10.jpg</string>
+		<string>11.jpg</string>
+		<string>12.jpg</string>
+		<string>13.jpg</string>
+		<string>14.jpg</string>
+		<string>15.jpg</string>
+		<string>16.jpg</string>
+		<string>17.jpg</string>
+		<string>18.jpg</string>
+		<string>19.jpg</string>
+		<string>20.jpg</string>
+		<string>21.jpg</string>
+		<string>22.jpg</string>
+		<string>23.jpg</string>
+		<string>24.jpg</string>
+		<string>25.jpg</string>
+		<string>26.jpg</string>
+		<string>27.jpg</string>
+		<string>28.jpg</string>
+		<string>29.jpg</string>
+		<string>30.jpg</string>
+		<string>31.jpg</string>
+		<string>32.jpg</string>
+		<string>33.jpg</string>
+		<string>34.jpg</string>
+		<string>35.jpg</string>
+		<string>36.jpg</string>
+		<string>37.jpg</string>
+		<string>38.jpg</string>
+		<string>39.jpg</string>
+		<string>40.jpg</string>
+		<string>41.jpg</string>
+		<string>42.jpg</string>
+		<string>43.jpg</string>
+		<string>44.jpg</string>
+	</array>
+	<key>parties</key>
+	<array>
+		<string>Independent</string>
+		<string>Federalist</string>
+		<string>Democratic-Republican</string>
+		<string>Democratic-Republican</string>
+		<string>Democratic-Republican</string>
+		<string>Democratic-Republican</string>
+		<string>Democratic</string>
+		<string>Democratic</string>
+		<string>Whig</string>
+		<string>Whig</string>
+		<string>Democratic</string>
+		<string>Whig</string>
+		<string>Whig</string>
+		<string>Democratic</string>
+		<string>Democratic</string>
+		<string>Republican / National Union</string>
+		<string>Democratic / National Union</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Democratic</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Democratic</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Democratic</string>
+		<string>Democratic</string>
+		<string>Republican</string>
+		<string>Democratic</string>
+		<string>Democratic</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Democratic</string>
+		<string>Republican</string>
+		<string>Republican</string>
+		<string>Democratic</string>
+		<string>Republican </string>
+		<string>Democratic</string>
+		<string>Republican</string>
+	</array>
+	<key>birthplace</key>
+	<array>
+		<string>Westmoreland County     Virginia</string>
+		<string>Braintree     Massachusetts</string>
+		<string>Shadwell     Virginia</string>
+		<string>Port Conway     Virginia</string>
+		<string>Monroe Hall     Virginia</string>
+		<string>Braintree     Massachusetts</string>
+		<string>Waxhaws Region     South/North Carolina</string>
+		<string>Kinderhook     New York     </string>
+		<string>Charles City County     Virginia</string>
+		<string>Charles City County     Virginia     </string>
+		<string>Pineville     North Carolina     </string>
+		<string>Barboursville     Virginia </string>
+		<string>Summerhill     New York     </string>
+		<string>Hillsborough     New Hampshire     </string>
+		<string>Cove Gap     Pennsylvania </string>
+		<string>Raleigh     North Carolina     </string>
+		<string>Sinking Spring     Kentucky     </string>
+		<string>Point Pleasant     Ohio     </string>
+		<string>Delaware     Ohio     </string>
+		<string>Moreland Hills     Ohio     </string>
+		<string>Fairfield     Vermont     </string>
+		<string>Caldwell     New Jersey     </string>
+		<string>North Bend     Ohio     </string>
+		<string>Niles     Ohio     </string>
+		<string>New York City     New York     </string>
+		<string>Cincinnati     Ohio     </string>
+		<string>Staunton     Virginia     </string>
+		<string>Blooming Grove     Ohio     </string>
+		<string>Plymouth     Vermont     </string>
+		<string>West Branch     Iowa     </string>
+		<string>Hyde Park     New York     </string>
+		<string>Lamar     Missouri     </string>
+		<string>Denison     Texas     </string>
+		<string>Brookline     Massachusetts     </string>
+		<string>Stonewall     Texas     </string>
+		<string>Yorba Linda     California     </string>
+		<string>Omaha     Nebraska     </string>
+		<string>Plains     Georgia     </string>
+		<string>Tampico     Illinois     </string>
+		<string>Milton     Massachusetts     </string>
+		<string>Hope     Arkansas     </string>
+		<string>New Haven     Connecticut     </string>
+		<string>Honolulu     Hawaii     </string>
+		<string>New York City     New York     </string>
+	</array>
+	<key>previousoccupation</key>
+	<array>
+		<string>Commander-in-Chief of the Continental Army (1775–1783)</string>
+		<string>1st Vice President of the United States</string>
+		<string>2nd Vice President of the United States</string>
+		<string>5th United States Secretary of State</string>
+		<string>7th United States Secretary of State</string>
+		<string>8th United States Secretary of State</string>
+		<string>U.S. Senator from Tennessee</string>
+		<string>8th Vice President of the United States</string>
+		<string>United States Minister to Colombia</string>
+		<string>10th Vice President of the United States</string>
+		<string>9th Governor of Tennessee</string>
+		<string>Major General of the 1st Infantry Regiment</string>
+		<string>12th Vice President of the United States</string>
+		<string>Brigadier General of the 9th Infantry</string>
+		<string>United States Minister to the Court of St Jamess</string>
+		<string>U.S. Representative for Illinois 7th District</string>
+		<string>16th Vice President of the United States</string>
+		<string>Commanding General of the U.S. Army</string>
+		<string>29th and 32nd Governor of Ohio U.S. Representative for Ohios 19th District</string>
+		<string>20th Vice President of the United States</string>
+		<string>28th Governor of New York</string>
+		<string>U.S. Senator from Indiana</string>
+		<string>22nd President of the United States</string>
+		<string>39th Governor of Ohio</string>
+		<string>25th Vice President of the United States</string>
+		<string>42nd United States Secretary of War</string>
+		<string>34th Governor of New Jersey</string>
+		<string>U.S. Senator from Ohio</string>
+		<string>29th Vice President of the United States</string>
+		<string>3rd United States Secretary of Commerce</string>
+		<string>44th Governor of New York</string>
+		<string>34th Vice President of the United States</string>
+		<string>Supreme Allied Commander Europe</string>
+		<string>U.S. Senator from Massachusetts</string>
+		<string>37th Vice President of the United States</string>
+		<string>36th Vice President of the United States</string>
+		<string>40th Vice President of the United States</string>
+		<string>76th Governor of Georgia</string>
+		<string>33rd Governor of California</string>
+		<string>43rd Vice President of the United States</string>
+		<string>40th and 42nd Governor of Arkansas</string>
+		<string>46th Governor of Texas</string>
+		<string>U.S. Senator from Illinois</string>
+		<string>Chairman of The Trump Organization</string>
+	</array>
+</dict>
+</plist>

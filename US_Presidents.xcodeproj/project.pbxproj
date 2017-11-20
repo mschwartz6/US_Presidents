@@ -8,24 +8,39 @@
 
 /* Begin PBXBuildFile section */
 		6FC58F961FBFAB8E000F2128 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FC58F951FBFAB8E000F2128 /* AppDelegate.m */; };
-		6FC58F991FBFAB8E000F2128 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FC58F981FBFAB8E000F2128 /* ViewController.m */; };
 		6FC58F9C1FBFAB8E000F2128 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FC58F9A1FBFAB8E000F2128 /* Main.storyboard */; };
 		6FC58F9E1FBFAB8E000F2128 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FC58F9D1FBFAB8E000F2128 /* Assets.xcassets */; };
 		6FC58FA11FBFAB8F000F2128 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FC58F9F1FBFAB8F000F2128 /* LaunchScreen.storyboard */; };
 		6FC58FA41FBFAB8F000F2128 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FC58FA31FBFAB8F000F2128 /* main.m */; };
+		6FC58FAB1FBFABE3000F2128 /* textFiles in Resources */ = {isa = PBXBuildFile; fileRef = 6FC58FAA1FBFABE3000F2128 /* textFiles */; };
+		6FC58FAD1FBFABE8000F2128 /* makePListFromTextFiles.py in Resources */ = {isa = PBXBuildFile; fileRef = 6FC58FAC1FBFABE8000F2128 /* makePListFromTextFiles.py */; };
+		6FC58FDD1FBFB0D7000F2128 /* PresidentsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FC58FDC1FBFB0D7000F2128 /* PresidentsTableViewController.m */; };
+		6FC58FE01FBFB0F3000F2128 /* PresidentsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FC58FDF1FBFB0F3000F2128 /* PresidentsTableViewCell.m */; };
+		6FC58FE31FBFB112000F2128 /* PresidentDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FC58FE21FBFB112000F2128 /* PresidentDetailViewController.m */; };
+		6FC58FE61FBFB237000F2128 /* Presidents.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FC58FE51FBFB237000F2128 /* Presidents.m */; };
+		6FEB03A01FBFE2EC0049B986 /* USP.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB039F1FBFE2EC0049B986 /* USP.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		6FC58F911FBFAB8E000F2128 /* US_Presidents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = US_Presidents.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FC58F941FBFAB8E000F2128 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6FC58F951FBFAB8E000F2128 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		6FC58F971FBFAB8E000F2128 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		6FC58F981FBFAB8E000F2128 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		6FC58F9B1FBFAB8E000F2128 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6FC58F9D1FBFAB8E000F2128 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FC58FA01FBFAB8F000F2128 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FC58FA21FBFAB8F000F2128 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6FC58FA31FBFAB8F000F2128 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6FC58FAA1FBFABE3000F2128 /* textFiles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = textFiles; sourceTree = "<group>"; };
+		6FC58FAC1FBFABE8000F2128 /* makePListFromTextFiles.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = makePListFromTextFiles.py; sourceTree = "<group>"; };
+		6FC58FDB1FBFB0D7000F2128 /* PresidentsTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PresidentsTableViewController.h; sourceTree = "<group>"; };
+		6FC58FDC1FBFB0D7000F2128 /* PresidentsTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresidentsTableViewController.m; sourceTree = "<group>"; };
+		6FC58FDE1FBFB0F3000F2128 /* PresidentsTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PresidentsTableViewCell.h; sourceTree = "<group>"; };
+		6FC58FDF1FBFB0F3000F2128 /* PresidentsTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresidentsTableViewCell.m; sourceTree = "<group>"; };
+		6FC58FE11FBFB112000F2128 /* PresidentDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PresidentDetailViewController.h; sourceTree = "<group>"; };
+		6FC58FE21FBFB112000F2128 /* PresidentDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresidentDetailViewController.m; sourceTree = "<group>"; };
+		6FC58FE41FBFB237000F2128 /* Presidents.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Presidents.h; sourceTree = "<group>"; };
+		6FC58FE51FBFB237000F2128 /* Presidents.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Presidents.m; sourceTree = "<group>"; };
+		6FEB039F1FBFE2EC0049B986 /* USP.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = USP.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,15 +73,24 @@
 		6FC58F931FBFAB8E000F2128 /* US_Presidents */ = {
 			isa = PBXGroup;
 			children = (
+				6FC58F9A1FBFAB8E000F2128 /* Main.storyboard */,
+				6FC58F9F1FBFAB8F000F2128 /* LaunchScreen.storyboard */,
+				6FC58FDB1FBFB0D7000F2128 /* PresidentsTableViewController.h */,
+				6FC58FDC1FBFB0D7000F2128 /* PresidentsTableViewController.m */,
+				6FC58FDE1FBFB0F3000F2128 /* PresidentsTableViewCell.h */,
+				6FC58FDF1FBFB0F3000F2128 /* PresidentsTableViewCell.m */,
+				6FC58FE11FBFB112000F2128 /* PresidentDetailViewController.h */,
+				6FC58FE21FBFB112000F2128 /* PresidentDetailViewController.m */,
+				6FC58FE41FBFB237000F2128 /* Presidents.h */,
+				6FC58FE51FBFB237000F2128 /* Presidents.m */,
 				6FC58F941FBFAB8E000F2128 /* AppDelegate.h */,
 				6FC58F951FBFAB8E000F2128 /* AppDelegate.m */,
-				6FC58F971FBFAB8E000F2128 /* ViewController.h */,
-				6FC58F981FBFAB8E000F2128 /* ViewController.m */,
-				6FC58F9A1FBFAB8E000F2128 /* Main.storyboard */,
-				6FC58F9D1FBFAB8E000F2128 /* Assets.xcassets */,
-				6FC58F9F1FBFAB8F000F2128 /* LaunchScreen.storyboard */,
-				6FC58FA21FBFAB8F000F2128 /* Info.plist */,
 				6FC58FA31FBFAB8F000F2128 /* main.m */,
+				6FC58FA21FBFAB8F000F2128 /* Info.plist */,
+				6FEB039F1FBFE2EC0049B986 /* USP.plist */,
+				6FC58FAC1FBFABE8000F2128 /* makePListFromTextFiles.py */,
+				6FC58FAA1FBFABE3000F2128 /* textFiles */,
+				6FC58F9D1FBFAB8E000F2128 /* Assets.xcassets */,
 			);
 			path = US_Presidents;
 			sourceTree = "<group>";
@@ -130,8 +154,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FC58FA11FBFAB8F000F2128 /* LaunchScreen.storyboard in Resources */,
+				6FC58FAD1FBFABE8000F2128 /* makePListFromTextFiles.py in Resources */,
+				6FC58FAB1FBFABE3000F2128 /* textFiles in Resources */,
 				6FC58F9E1FBFAB8E000F2128 /* Assets.xcassets in Resources */,
 				6FC58F9C1FBFAB8E000F2128 /* Main.storyboard in Resources */,
+				6FEB03A01FBFE2EC0049B986 /* USP.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,8 +169,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6FC58F991FBFAB8E000F2128 /* ViewController.m in Sources */,
+				6FC58FE01FBFB0F3000F2128 /* PresidentsTableViewCell.m in Sources */,
+				6FC58FE31FBFB112000F2128 /* PresidentDetailViewController.m in Sources */,
+				6FC58FDD1FBFB0D7000F2128 /* PresidentsTableViewController.m in Sources */,
 				6FC58FA41FBFAB8F000F2128 /* main.m in Sources */,
+				6FC58FE61FBFB237000F2128 /* Presidents.m in Sources */,
 				6FC58F961FBFAB8E000F2128 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
